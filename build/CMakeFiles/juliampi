@@ -1,0 +1,2 @@
+#!/bin/sh
+exec julia -P "require(\"/Users/tabel/.julia/mpi/mpi.jl\");" $@

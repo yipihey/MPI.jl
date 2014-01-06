@@ -1,0 +1,2 @@
+#!/bin/sh
+exec julia -P "require(\"/Users/tabel/Research/codes/MPI.jl/build/mpi-build.jl\");" $@

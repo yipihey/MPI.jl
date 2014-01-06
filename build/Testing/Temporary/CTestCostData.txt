@@ -1,0 +1,7 @@
+test_bcast.jl_np:2 2 0.897832
+test_reduce.jl_np:2 2 0.545914
+test_sendrecv.jl_np:2 2 0.530707
+test_bcast.jl_np:5 2 1.27366
+test_reduce.jl_np:5 2 0.718586
+test_sendrecv.jl_np:5 2 1.03045
+---

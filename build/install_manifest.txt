@@ -1,0 +1,3 @@
+/Users/tabel/.julia/mpi/./mpi.jl
+/Users/tabel/.julia/mpi/./juliampi
+/Users/tabel/.julia/mpi/./libmpi.dylib

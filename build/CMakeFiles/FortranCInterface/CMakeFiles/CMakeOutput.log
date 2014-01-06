@@ -1,0 +1,17 @@
+Performing C SOURCE FILE Test C_SUPPORTS_DOLLAR succeded with the following output:
+Change Dir: /Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec396460375/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec396460375.dir/build.make CMakeFiles/cmTryCompileExec396460375.dir/build
+/usr/local/Cellar/cmake/2.8.12.1/bin/cmake -E cmake_progress_report /Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec396460375.dir/src.c.o
+/usr/local/bin/gcc   -DC_SUPPORTS_DOLLAR   -o CMakeFiles/cmTryCompileExec396460375.dir/src.c.o   -c /Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec396460375
+/usr/local/Cellar/cmake/2.8.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec396460375.dir/link.txt --verbose=1
+/usr/local/bin/gcc   -DC_SUPPORTS_DOLLAR -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTryCompileExec396460375.dir/src.c.o  -o cmTryCompileExec396460375  
+
+Source file was:
+
+extern int dollar$(void);
+int main() { return 0; }
+

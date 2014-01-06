@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tabel/Research/codes/MPI.jl/make_f2c.c
+stdio.h
+-
+jlmpi_f2c.h
+/Users/tabel/Research/codes/MPI.jl/jlmpi_f2c.h
+version.h
+/Users/tabel/Research/codes/MPI.jl/version.h
+
+jlmpi_f2c.h
+
+version.h
+

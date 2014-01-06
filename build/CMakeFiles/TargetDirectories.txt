@@ -1,0 +1,9 @@
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/dist.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/juliampi-build-sh.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/juliampi-sh.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/make_f2c.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/make_f_const.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/mpi.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/mpijl.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/mpijl-build.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/version.dir

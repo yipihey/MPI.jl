@@ -1,0 +1,93 @@
+Start testing: Jan 05 19:02 PST
+----------------------------------------------------------
+1/6 Testing: test_bcast.jl_np:2
+1/6 Test: test_bcast.jl_np:2
+Command: "/usr/local/bin/mpiexec" "-np" "2" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_bcast.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_bcast.jl_np:2" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.80 sec
+----------------------------------------------------------
+Test Passed.
+"test_bcast.jl_np:2" end time: Jan 05 19:02 PST
+"test_bcast.jl_np:2" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/6 Testing: test_reduce.jl_np:2
+2/6 Test: test_reduce.jl_np:2
+Command: "/usr/local/bin/mpiexec" "-np" "2" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_reduce.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_reduce.jl_np:2" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.09 sec
+----------------------------------------------------------
+Test Passed.
+"test_reduce.jl_np:2" end time: Jan 05 19:02 PST
+"test_reduce.jl_np:2" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/6 Testing: test_sendrecv.jl_np:2
+3/6 Test: test_sendrecv.jl_np:2
+Command: "/usr/local/bin/mpiexec" "-np" "2" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_sendrecv.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_sendrecv.jl_np:2" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.06 sec
+----------------------------------------------------------
+Test Passed.
+"test_sendrecv.jl_np:2" end time: Jan 05 19:02 PST
+"test_sendrecv.jl_np:2" time elapsed: 00:00:01
+----------------------------------------------------------
+
+4/6 Testing: test_bcast.jl_np:5
+4/6 Test: test_bcast.jl_np:5
+Command: "/usr/local/bin/mpiexec" "-np" "5" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_bcast.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_bcast.jl_np:5" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.55 sec
+----------------------------------------------------------
+Test Passed.
+"test_bcast.jl_np:5" end time: Jan 05 19:02 PST
+"test_bcast.jl_np:5" time elapsed: 00:00:02
+----------------------------------------------------------
+
+5/6 Testing: test_reduce.jl_np:5
+5/6 Test: test_reduce.jl_np:5
+Command: "/usr/local/bin/mpiexec" "-np" "5" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_reduce.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_reduce.jl_np:5" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.44 sec
+----------------------------------------------------------
+Test Passed.
+"test_reduce.jl_np:5" end time: Jan 05 19:02 PST
+"test_reduce.jl_np:5" time elapsed: 00:00:01
+----------------------------------------------------------
+
+6/6 Testing: test_sendrecv.jl_np:5
+6/6 Test: test_sendrecv.jl_np:5
+Command: "/usr/local/bin/mpiexec" "-np" "5" "/Users/tabel/Research/codes/MPI.jl/build/juliampi-build" "/Users/tabel/Research/codes/MPI.jl/test/run_test.jl" "/Users/tabel/Research/codes/MPI.jl/test/test_sendrecv.jl"
+Directory: /Users/tabel/Research/codes/MPI.jl/build
+"test_sendrecv.jl_np:5" start time: Jan 05 19:02 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.06 sec
+----------------------------------------------------------
+Test Passed.
+"test_sendrecv.jl_np:5" end time: Jan 05 19:02 PST
+"test_sendrecv.jl_np:5" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Jan 05 19:02 PST

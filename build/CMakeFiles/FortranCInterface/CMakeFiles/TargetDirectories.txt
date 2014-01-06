@@ -1,0 +1,3 @@
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/FortranCInterface.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir
+/Users/tabel/Research/codes/MPI.jl/build/CMakeFiles/FortranCInterface/CMakeFiles/symbols.dir
